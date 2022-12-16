@@ -36,3 +36,16 @@
 4. Việc tạo file path chỉ cần làm một lần và có thể dùng lại (nếu vị trí audio không đổi) và nên lưu lại các file này tiết kiệm thời gian.
 
 5. Chạy các cell trong *.ipynb để trích xuất đặc trưng và huấn luyện mô hình.
+
+6. Cite us
+
+```
+@inproceedings{duong2022empirical,
+  title={An Empirical Experiment on Feature Extractions Based for Speech Emotion Recognition},
+  author={Duong, Binh Van and Ha, Chien Nhu and Nguyen, Trung T and Nguyen, Phuc and Do, Trong-Hop},
+  booktitle={Asian Conference on Intelligent Information and Database Systems},
+  pages={180--191},
+  year={2022},
+  organization={Springer}
+}
+```
